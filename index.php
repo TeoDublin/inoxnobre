@@ -329,7 +329,7 @@
                                                                                 <div class="clear"></div>
                                                                             </div>
                                                                             <div class="empty-space empty-single"><span class="empty-space-inner"></span></div>
-                                                                            <span class="btn-container animate_when_almost_visible zoom-in start_animation" data-speed="600"><a href="https://api.whatsapp.com/send?phone=5562983403875" class="custom-link btn btn-lg border-width-0 btn-text-skin btn-button_color-183910 btn-circle btn-flat btn-icon-left btn-ripple-in btn-border-animated">Faça um Orçamento!</a></span>
+                                                                            <span class="btn-container animate_when_almost_visible zoom-in start_animation" data-speed="600"><a href="https://api.whatsapp.com/send?phone=556293366342" class="custom-link btn btn-lg border-width-0 btn-text-skin btn-button_color-183910 btn-circle btn-flat btn-icon-left btn-ripple-in btn-border-animated">Faça um Orçamento!</a></span>
                                                                             <div class="empty-space empty-half"><span class="empty-space-inner"></span></div>                                                                            
                                                                             <div class="divider-wrapper ">
                                                                                 <hr class="border-color-823658-color separator-no-padding">
@@ -910,7 +910,7 @@
         <div class="qlwapp-container">
             <div class="qlwapp-box">
                 <div class="qlwapp-body">
-                    <a class="qlwapp-account" data-action="open" data-phone="5562983403875" data-message="Olá! Em breve responderemos sua mensagem. Obrigado!" role="button" tabindex="0" target="_blank">
+                    <a class="qlwapp-account" data-action="open" data-phone="556293366342" data-message="Olá! Em breve responderemos sua mensagem. Obrigado!" role="button" tabindex="0" target="_blank">
                         <div class="qlwapp-avatar">
                             <div class="qlwapp-avatar-container">
                                 <img alt="WhatsApp " src="/wp-content/uploads/2021/05/inoxcenter-marca.png">
@@ -923,7 +923,7 @@
                     </a>
                 </div>
             </div>
-            <a class="qlwapp-toggle" data-action="box" href="https://wa.me/556293366342" data-phone="5562983403875" data-message="Olá! Em breve responderemos sua mensagem. Obrigado!" role="button" tabindex="0" target="_blank">
+            <a class="qlwapp-toggle" data-action="box" href="https://wa.me/556293366342" data-phone="556293366342" data-message="Olá! Em breve responderemos sua mensagem. Obrigado!" role="button" tabindex="0" target="_blank">
                 <img src="assets/img/whatsapp.png" alt="Orçamento" width="50">
                 <span class="qlwapp-text">Faça seu Orçamento Grátis</span>
             </a>

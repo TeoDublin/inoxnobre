@@ -1,0 +1,38 @@
+
+
+body {
+    min-height: 200vh;
+    background-color: #f8f9fa;
+}
+
+.main-navbar {
+    position: sticky;
+    top: 0;
+    z-index: 1020;
+    background-color: #f8f9fa;
+    height: 100px;
+}
+
+
+.hover:hover,
+.hover:hover * {
+	cursor: pointer !important;
+	color: blue;
+}
+
+.carousel {
+    height: calc(100vh - 100px);
+}
+
+.carousel-inner,
+.carousel-item {
+    height: 100%;
+}
+
+.carousel-item img {
+    width: auto;
+    height: 100%;
+    max-width: 100%;
+    display: block;
+    margin: auto;
+}

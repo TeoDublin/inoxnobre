@@ -12,5 +12,5 @@
             <div class="col-4"></div>
         </div>
     </nav>
-    <div class="content justify-content-center text-center align-content-center p-4">
+    <div class="content">
 

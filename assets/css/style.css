@@ -13,26 +13,18 @@ body {
     height: 100px;
 }
 
-
-.hover:hover,
-.hover:hover * {
-	cursor: pointer !important;
-	color: blue;
-}
-
-.carousel {
+.banner {
     height: calc(100vh - 100px);
-}
-
-.carousel-inner,
-.carousel-item {
-    height: 100%;
-}
-
-.carousel-item img {
-    width: auto;
-    height: 100%;
-    max-width: 100%;
-    display: block;
-    margin: auto;
+    background-image: 
+        linear-gradient(rgba(0, 90, 180, 0.7), rgba(0, 77, 154, 0.7)), 
+        url('/inoxnobre/archive/Corrimao-de-Parede-Home-1.webp');
+    background-color: #114e8b;
+    opacity: 0.9;
+    background-size: cover;
+    background-position: center;
+    color: white; /* Make text visible on the banner */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
 }
